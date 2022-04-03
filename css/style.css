@@ -1,0 +1,41 @@
+body {
+    text-align: justify;
+    background-color: #2A0C4E;
+}
+
+h1 {
+    text-align: center;
+    padding: 10px;
+    color: #9E2B25;
+
+}
+
+h1:hover {
+    background-color:#F5F8DE;
+}
+
+h2 {
+    color: #9E2B25;
+}
+
+h2:hover{
+    background-color: #F5F8DE;
+}
+
+p, li {
+    color: #F5F8DE;
+}
+
+b {
+    color: #FFF8F0;
+}
+
+.img {
+    align-items: center;
+    margin: 105px;
+    margin-top: auto;
+    border-style: dotted;
+    border-color: #9E2B25;
+    border-width: 5px;
+}
+
